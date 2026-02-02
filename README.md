@@ -6,7 +6,7 @@
 
 # Authentication & Profile Management System
 
-![Update your personal information](Authentication & Profile Management System.png)
+[Update your personal information](Authentication & Profile Management System.png)
 
 ## 📋 Project Overview
 This project is a secure User Authentication and Profile Management system developed using **PHP (Object-Oriented Programming)** and **MySQL**. It features a modern, responsive user interface styled with **Tailwind CSS**. 

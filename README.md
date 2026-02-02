@@ -7,7 +7,7 @@
 # Authentication & Profile Management System
 
 <p align="center">
-  <img src="Authentication & Profile Management System.png" alt="Update your personal information" width="50%">
+  <img src="Authentication & Profile Management System.png" alt="Update your personal information" width="70%">
 </p>
 
 ## 📋 Project Overview

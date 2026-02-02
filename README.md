@@ -92,11 +92,11 @@ The system provides a complete workflow for users to register, log in, manage th
 ### 2. Database Initialization
 1.  Place all project files in your server's root folder (htdocs or www).
 2.  Open your browser and run the setup script:
-    `http://localhost/your-project-folder/database/setup.php`
+    http://localhost/your-project-folder/database/setup.php
 3.  This will create the database `auth-and-profile-management-system` and the `users` and `password_resets` table automatically.
 
 ### 3. Usage
-* Start by visiting `http://localhost/your-project-folder/pages/auth/signup.php`.
+* Start by visiting http://localhost/your-project-folder/pages/auth/signup.php.
 * After registration, use `login.php` (http://localhost/your-project-folder/) to access your dashboard.
 
 ### 4. Testing Email (Forgot Password)
